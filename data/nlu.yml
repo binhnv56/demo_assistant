@@ -1,6 +1,11 @@
 version: "2.0"
 
 nlu:
+- intent: viettel
+  examples: |
+    - viettel
+    - công ty nào
+    - Cái gì cơ
 - intent: greet
   examples: |
     - hey

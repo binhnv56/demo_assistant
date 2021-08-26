@@ -11,3 +11,8 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: Where is viettel
+  steps:
+  - intent: viettel
+  - action: utter_viettel
